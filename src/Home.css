@@ -25,3 +25,8 @@ body{
     width: 20%;
     height: auto;
 }
+
+pre{
+    display: flex;
+    flex-direction: column;
+}
